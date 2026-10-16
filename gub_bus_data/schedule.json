@@ -1,0 +1,154 @@
+{
+    "Route 01": {
+        "route_name": "Shewrapara to GUB via Mirpur 12",
+        "time_slot": "06:45",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 3
+    },
+    "Route 02": {
+        "route_name": "Shewrapara to GUB via Mohakhali",
+        "time_slot": "07:00",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 03_1": {
+        "route_name": "Shyamoli to GUB via Majar Road",
+        "time_slot": "07:15",
+        "bus": "DM BA 12-1500",
+        "driver": "Wazkuruni",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 03_2": {
+        "route_name": "Shyamoli to GUB via Technical Mor",
+        "time_slot": "07:30",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 04_1": {
+        "route_name": "Azimpur to GUB via Dhanmondi 27-Farmgate",
+        "time_slot": "07:45",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 1
+    },
+    "Route 05_1": {
+        "route_name": "Motijheel to GUB via Malibagh",
+        "time_slot": "08:00",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 1
+    },
+    "Route 05_2": {
+        "route_name": "Malibagh to GUB via Rampura",
+        "time_slot": "08:15",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 06_1": {
+        "route_name": "Gulistan to GUB via Staff Quarter",
+        "time_slot": "06:30",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 1
+    },
+    "Route 06_2": {
+        "route_name": "Jatrabari to GUB via Staff Quarter",
+        "time_slot": "06:45",
+        "bus": "DM BA 12-1500",
+        "driver": "Wazkuruni",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 07": {
+        "route_name": "Shonir Akhra to GUB via Kanchpur",
+        "time_slot": "07:00",
+        "bus": "DM BA 12-1500",
+        "driver": "Wazkuruni",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 08_1": {
+        "route_name": "Chashara to GUB via CTG Road",
+        "time_slot": "07:15",
+        "bus": "DM BA 13-0861",
+        "driver": "Rajib",
+        "capacity": 40,
+        "estimated_demand": 1
+    },
+    "Route 08_2": {
+        "route_name": "Chashara to GUB via Sign Board",
+        "time_slot": "07:30",
+        "bus": "DM BA 12-1500",
+        "driver": "Wazkuruni",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 09_1": {
+        "route_name": "Narsingdi (Velanagar) to GUB via Bhulta",
+        "time_slot": "07:15",
+        "bus": "DM BA 11-9044",
+        "driver": "Alam",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 09_2": {
+        "route_name": "Narsingdi (Ghorashal) to GUB via Bhulta",
+        "time_slot": "07:30",
+        "bus": "DM BA 11-9044",
+        "driver": "Alam",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 10_1": {
+        "route_name": "Bypass (Gazipur) to GUB via Abdullahpur",
+        "time_slot": "06:30",
+        "bus": "DM BA 11-9044",
+        "driver": "Alam",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 10_2": {
+        "route_name": "Chowrasta (Gazipur) to GUB via Mirer Bazar",
+        "time_slot": "06:45",
+        "bus": "DM BA 11-9044",
+        "driver": "Alam",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 11": {
+        "route_name": "Sonargaon to GUB via Madanpur-Noyapur",
+        "time_slot": "06:30",
+        "bus": "DM BA 12-1500",
+        "driver": "Wazkuruni",
+        "capacity": 40,
+        "estimated_demand": 1
+    },
+    "Route 11_12": {
+        "route_name": "Sonargaon Baradi to GUB via Araihazar",
+        "time_slot": "06:45",
+        "bus": "DM BA 11-9053",
+        "driver": "Mahtab",
+        "capacity": 40,
+        "estimated_demand": 0
+    },
+    "Route 12": {
+        "route_name": "Araihazar (Bishnandi Ferry Ghat) to GUB",
+        "time_slot": "07:00",
+        "bus": "DM BA 11-9044",
+        "driver": "Alam",
+        "capacity": 40,
+        "estimated_demand": 0
+    }
+}

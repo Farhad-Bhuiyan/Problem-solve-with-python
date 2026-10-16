@@ -1,0 +1,1 @@
+{"name":"Local: Reverse_Digits","url":"d:\\Problem solve with python\\Reverse_Digits.py","tests":[{"id":1791806077338,"input":"12345\n","output":"5 4 3 2 1"},{"id":1791806119519,"input":"908","output":"8 0 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Reverse_Digits.py","group":"local","local":true}

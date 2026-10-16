@@ -1,0 +1,1 @@
+print("ami farhad")

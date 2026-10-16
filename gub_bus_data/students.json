@@ -1,0 +1,57 @@
+{
+    "221001": {
+        "name": "Ayan",
+        "pickup_stop": "Shewrapara",
+        "assigned_bus": null
+    },
+    "221002": {
+        "name": "Borna",
+        "pickup_stop": "Kuril",
+        "assigned_bus": null
+    },
+    "221003": {
+        "name": "Cynthia",
+        "pickup_stop": "Kalshi",
+        "assigned_bus": null
+    },
+    "221004": {
+        "name": "Dipto",
+        "pickup_stop": "Rampura",
+        "assigned_bus": null
+    },
+    "221005": {
+        "name": "Faria",
+        "pickup_stop": "Tarabo",
+        "assigned_bus": null
+    },
+    "221006": {
+        "name": "Hira",
+        "pickup_stop": "Gawsia",
+        "assigned_bus": null
+    },
+    "221007": {
+        "name": "Jannat",
+        "pickup_stop": "Chashara",
+        "assigned_bus": null
+    },
+    "221008": {
+        "name": "Lamia",
+        "pickup_stop": "Dhanmondi 27",
+        "assigned_bus": null
+    },
+    "231002012": {
+        "name": "Humayra",
+        "pickup_stop": "Bashundhara",
+        "assigned_bus": null
+    },
+    "241002017": {
+        "name": "Farhad",
+        "pickup_stop": "Bostail",
+        "assigned_bus": null
+    },
+    "241002002": {
+        "name": "Sowmik",
+        "pickup_stop": "Bostail",
+        "assigned_bus": null
+    }
+}

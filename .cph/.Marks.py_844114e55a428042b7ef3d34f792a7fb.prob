@@ -1,0 +1,1 @@
+{"name":"Local: Marks","url":"d:\\Problem solve with python\\Marks.py","tests":[{"id":1791809383759,"input":"5\n45\n78\n85\n95\n30","output":"Pass\nA\nA+\nA+\nFail"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Marks.py","group":"local","local":true}

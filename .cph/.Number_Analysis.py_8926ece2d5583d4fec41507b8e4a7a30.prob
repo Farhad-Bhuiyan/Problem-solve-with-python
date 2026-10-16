@@ -1,0 +1,1 @@
+{"name":"Local: Number_Analysis","url":"d:\\Problem solve with python\\Number_Analysis.py","tests":[{"id":1791807183117,"input":"6\n12 135 47 91 999 25\n","output":"135 9\n47 11\n91 10\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Number_Analysis.py","group":"local","local":true}

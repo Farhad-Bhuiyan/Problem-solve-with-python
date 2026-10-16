@@ -1,0 +1,409 @@
+{
+    "Shewrapara": [
+        "Mirpur-10",
+        "Agargaon"
+    ],
+    "Mirpur-10": [
+        "Shewrapara",
+        "Mirpur-12"
+    ],
+    "Mirpur-12": [
+        "Mirpur-10",
+        "Kalshi"
+    ],
+    "Kalshi": [
+        "Mirpur-12",
+        "ECB Chattor",
+        "Mirpur 11",
+        "Kuril"
+    ],
+    "ECB Chattor": [
+        "Kalshi",
+        "Kuril"
+    ],
+    "Kuril": [
+        "ECB Chattor",
+        "GUB Campus",
+        "MES",
+        "Kalshi",
+        "Banani",
+        "Natun Bazar",
+        "Khilkhet"
+    ],
+    "GUB Campus": [
+        "Kuril",
+        "Bhulta",
+        "Murapara",
+        "Kanchon",
+        "Gawsia"
+    ],
+    "Agargaon": [
+        "Shewrapara",
+        "Mohakhali"
+    ],
+    "Mohakhali": [
+        "Agargaon",
+        "Banani",
+        "Farmgate"
+    ],
+    "Banani": [
+        "Mohakhali",
+        "MES",
+        "Kuril"
+    ],
+    "MES": [
+        "Banani",
+        "Kuril"
+    ],
+    "Shyamoli": [
+        "Technical Mor"
+    ],
+    "Technical Mor": [
+        "Shyamoli",
+        "Gabtoli",
+        "Mirpur 1"
+    ],
+    "Gabtoli": [
+        "Technical Mor",
+        "Majar Road"
+    ],
+    "Majar Road": [
+        "Gabtoli",
+        "Mirpur 1"
+    ],
+    "Mirpur 1": [
+        "Majar Road",
+        "Mirpur 2",
+        "Technical Mor"
+    ],
+    "Mirpur 2": [
+        "Mirpur 1",
+        "Mirpur 11"
+    ],
+    "Mirpur 11": [
+        "Mirpur 2",
+        "Kalshi"
+    ],
+    "Azimpur": [
+        "New Market"
+    ],
+    "New Market": [
+        "Azimpur",
+        "City College"
+    ],
+    "City College": [
+        "New Market",
+        "Dhanmondi 27"
+    ],
+    "Dhanmondi 27": [
+        "City College",
+        "Khamar Bari"
+    ],
+    "Khamar Bari": [
+        "Dhanmondi 27",
+        "Farmgate"
+    ],
+    "Farmgate": [
+        "Khamar Bari",
+        "Mohakhali"
+    ],
+    "Motijheel": [
+        "Komlapur"
+    ],
+    "Komlapur": [
+        "Motijheel",
+        "Basabo"
+    ],
+    "Basabo": [
+        "Komlapur",
+        "Khilgaon"
+    ],
+    "Khilgaon": [
+        "Basabo",
+        "Malibag"
+    ],
+    "Malibag": [
+        "Khilgaon",
+        "Abul Hotel"
+    ],
+    "Abul Hotel": [
+        "Malibag",
+        "Rampura"
+    ],
+    "Rampura": [
+        "Abul Hotel",
+        "Badda"
+    ],
+    "Badda": [
+        "Rampura",
+        "Natun Bazar"
+    ],
+    "Natun Bazar": [
+        "Badda",
+        "Kuril"
+    ],
+    "Gulistan": [
+        "Tikatuli"
+    ],
+    "Tikatuli": [
+        "Gulistan",
+        "Doyaganj"
+    ],
+    "Doyaganj": [
+        "Tikatuli",
+        "Jonopath Mor"
+    ],
+    "Jonopath Mor": [
+        "Doyaganj",
+        "Jatrabari"
+    ],
+    "Jatrabari": [
+        "Jonopath Mor",
+        "Vangga Press"
+    ],
+    "Vangga Press": [
+        "Jatrabari",
+        "Mridhabari"
+    ],
+    "Mridhabari": [
+        "Vangga Press",
+        "Konapara"
+    ],
+    "Konapara": [
+        "Mridhabari",
+        "Staff Quarter"
+    ],
+    "Staff Quarter": [
+        "Konapara",
+        "Tarabo"
+    ],
+    "Tarabo": [
+        "Staff Quarter",
+        "Rupshi",
+        "Kachpur"
+    ],
+    "Rupshi": [
+        "Tarabo",
+        "Bhulta",
+        "Murapara"
+    ],
+    "Bhulta": [
+        "Rupshi",
+        "GUB Campus",
+        "Madhopdi"
+    ],
+    "Shonir Akhra": [
+        "Rayerbagh"
+    ],
+    "Rayerbagh": [
+        "Shonir Akhra",
+        "Matuail"
+    ],
+    "Matuail": [
+        "Rayerbagh",
+        "Sign Board"
+    ],
+    "Sign Board": [
+        "Matuail",
+        "CTG Road",
+        "Mamudpar",
+        "Shanarpar"
+    ],
+    "CTG Road": [
+        "Sign Board",
+        "Kachpur",
+        "Adomjhee EPZ",
+        "Shanarpar"
+    ],
+    "Kachpur": [
+        "CTG Road",
+        "Tarabo"
+    ],
+    "Chashara": [
+        "Nobiganj",
+        "Shibu Market"
+    ],
+    "Nobiganj": [
+        "Chashara",
+        "Chowdhuri Bari"
+    ],
+    "Chowdhuri Bari": [
+        "Nobiganj",
+        "Adomjhee EPZ"
+    ],
+    "Adomjhee EPZ": [
+        "Chowdhuri Bari",
+        "CTG Road"
+    ],
+    "Murapara": [
+        "Rupshi",
+        "GUB Campus"
+    ],
+    "Shibu Market": [
+        "Chashara",
+        "Jalkuri"
+    ],
+    "Jalkuri": [
+        "Shibu Market",
+        "Bhuighar"
+    ],
+    "Bhuighar": [
+        "Jalkuri",
+        "Mamudpar"
+    ],
+    "Mamudpar": [
+        "Bhuighar",
+        "Sign Board"
+    ],
+    "Shanarpar": [
+        "Sign Board",
+        "CTG Road"
+    ],
+    "Narsingdi Velanagar": [
+        "Shahe Protap"
+    ],
+    "Shahe Protap": [
+        "Narsingdi Velanagar",
+        "Panchdona"
+    ],
+    "Panchdona": [
+        "Shahe Protap",
+        "Madhopdi",
+        "Ghorashal"
+    ],
+    "Madhopdi": [
+        "Panchdona",
+        "Bhulta"
+    ],
+    "Ghorashal": [
+        "Panchdona"
+    ],
+    "Gazipur Bypass": [
+        "Abdullahpur",
+        "Gazipur Chowrasta",
+        "Meghdubi"
+    ],
+    "Abdullahpur": [
+        "Gazipur Bypass",
+        "Azompur"
+    ],
+    "Azompur": [
+        "Abdullahpur",
+        "Rajlakshmi"
+    ],
+    "Rajlakshmi": [
+        "Azompur",
+        "Airport"
+    ],
+    "Airport": [
+        "Rajlakshmi",
+        "Khilkhet"
+    ],
+    "Khilkhet": [
+        "Airport",
+        "Kuril"
+    ],
+    "Gazipur Chowrasta": [
+        "Gazipur Bypass"
+    ],
+    "Meghdubi": [
+        "Gazipur Bypass",
+        "Mirer Bazar"
+    ],
+    "Mirer Bazar": [
+        "Meghdubi",
+        "Ulukhola"
+    ],
+    "Ulukhola": [
+        "Mirer Bazar",
+        "Zinda Park"
+    ],
+    "Zinda Park": [
+        "Ulukhola",
+        "Kanchon"
+    ],
+    "Kanchon": [
+        "Zinda Park",
+        "GUB Campus"
+    ],
+    "Mograpara": [
+        "Langalbond"
+    ],
+    "Langalbond": [
+        "Mograpara",
+        "Madanpur"
+    ],
+    "Madanpur": [
+        "Langalbond",
+        "Noyapur"
+    ],
+    "Noyapur": [
+        "Madanpur",
+        "Bostail"
+    ],
+    "Bostail": [
+        "Noyapur",
+        "Gawsia"
+    ],
+    "Gawsia": [
+        "Bostail",
+        "GUB Campus",
+        "Duptara"
+    ],
+    "Sonargaon-Baradi": [
+        "Ladhurchor"
+    ],
+    "Ladhurchor": [
+        "Sonargaon-Baradi",
+        "Mahazampur"
+    ],
+    "Mahazampur": [
+        "Ladhurchor",
+        "Taltola"
+    ],
+    "Taltola": [
+        "Mahazampur",
+        "Eidbardi"
+    ],
+    "Eidbardi": [
+        "Taltola",
+        "Araihazar Chowrasta"
+    ],
+    "Araihazar Chowrasta": [
+        "Eidbardi",
+        "Kalibari Bazar",
+        "Ferighat Bypass Road"
+    ],
+    "Kalibari Bazar": [
+        "Araihazar Chowrasta",
+        "Duptara"
+    ],
+    "Duptara": [
+        "Kalibari Bazar",
+        "Gawsia"
+    ],
+    "Bishnandi Ferry Ghat": [
+        "Bishnandi Taltola Bazar"
+    ],
+    "Bishnandi Taltola Bazar": [
+        "Bishnandi Ferry Ghat",
+        "Ramchandri"
+    ],
+    "Ramchandri": [
+        "Bishnandi Taltola Bazar",
+        "Kalirhat"
+    ],
+    "Kalirhat": [
+        "Ramchandri",
+        "Dokkhinpara Tharibarimor"
+    ],
+    "Dokkhinpara Tharibarimor": [
+        "Kalirhat",
+        "Ferighat Bypass Road"
+    ],
+    "Ferighat Bypass Road": [
+        "Dokkhinpara Tharibarimor",
+        "Araihazar Chowrasta"
+    ],
+    "Bashundhara": []
+}

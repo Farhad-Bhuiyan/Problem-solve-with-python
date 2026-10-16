@@ -1,0 +1,1 @@
+{"name":"Local: Smallest_and_Largest","url":"d:\\Problem solve with python\\Smallest_and_Largest.py","tests":[{"id":1791804991366,"input":"5\n12 7 25 3 18\n","output":"3 25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Smallest_and_Largest.py","group":"local","local":true}

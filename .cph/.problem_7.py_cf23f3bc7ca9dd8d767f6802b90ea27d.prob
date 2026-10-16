@@ -1,0 +1,1 @@
+{"name":"Local: problem_7","url":"d:\\Problem solve with python\\problem_7.py","tests":[{"id":1791805393677,"input":"7\n-5 0 8 -2 7 11 4\n","output":"Positive: 4\nNegative: 2\nEven: 4\nOdd: 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\problem_7.py","group":"local","local":true}

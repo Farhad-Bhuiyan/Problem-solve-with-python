@@ -1,0 +1,1 @@
+{"name":"Local: Function_by_line","url":"d:\\Problem solve with python\\Function_by_line.py","tests":[{"id":1792090414090,"input":"file.txt","output":"1: Apple\n2: Banana\n3: Cherry\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Function_by_line.py","group":"local","local":true}

@@ -1,0 +1,102 @@
+{
+    "DM BA 13-0861": {
+        "capacity": 40,
+        "driver": "Rajib",
+        "assigned_route": "Route 05_2"
+    },
+    "DM BA 12-1500": {
+        "capacity": 40,
+        "driver": "Wazkuruni",
+        "assigned_route": "Route 08_2"
+    },
+    "DM BA 11-9044": {
+        "capacity": 40,
+        "driver": "Alam",
+        "assigned_route": "Route 12"
+    },
+    "DM BA 11-9053": {
+        "capacity": 40,
+        "driver": "Mahtab",
+        "assigned_route": "Route 11_12"
+    },
+    "DM JHA 11-1146": {
+        "capacity": 40,
+        "driver": "Alamin",
+        "assigned_route": null
+    },
+    "DM BA 15-4884": {
+        "capacity": 40,
+        "driver": "Kalam",
+        "assigned_route": null
+    },
+    "DM BA 13-1390": {
+        "capacity": 40,
+        "driver": "Manik",
+        "assigned_route": null
+    },
+    "DM BA 11-0049": {
+        "capacity": 40,
+        "driver": "Rahim",
+        "assigned_route": null
+    },
+    "DM BA 15-7715": {
+        "capacity": 40,
+        "driver": "Arif",
+        "assigned_route": null
+    },
+    "DM SA-11-0700": {
+        "capacity": 40,
+        "driver": "Rasel",
+        "assigned_route": null
+    },
+    "DM BA 15-9418": {
+        "capacity": 40,
+        "driver": "Hannan",
+        "assigned_route": null
+    },
+    "DM BA 11-7202": {
+        "capacity": 40,
+        "driver": "Mizan",
+        "assigned_route": null
+    },
+    "DM SA-11-0735": {
+        "capacity": 40,
+        "driver": "Aminul",
+        "assigned_route": null
+    },
+    "DM BA 11-3868": {
+        "capacity": 40,
+        "driver": "Rabbi",
+        "assigned_route": null
+    },
+    "DM BA 14-4066": {
+        "capacity": 40,
+        "driver": "Rakibul",
+        "assigned_route": null
+    },
+    "DM SA 11-0734": {
+        "capacity": 40,
+        "driver": "Usman",
+        "assigned_route": null
+    },
+    "DM BA 13-0680": {
+        "capacity": 40,
+        "driver": "Jahangir",
+        "assigned_route": null
+    },
+    "DM SA 11-0737": {
+        "capacity": 40,
+        "driver": "Masud",
+        "assigned_route": null
+    },
+    "DM BA 13-0563": {
+        "capacity": 40,
+        "driver": "Mahbub",
+        "assigned_route": null
+    },
+    "DM BA 11-9782": {
+        "capacity": 40,
+        "driver": "Abul",
+        "assigned_route": null
+    }
+}

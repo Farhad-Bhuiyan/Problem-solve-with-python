@@ -1,0 +1,1 @@
+{"name":"Local: Function_file","url":"d:\\Problem solve with python\\Function_file.py","tests":[{"id":1792088901907,"input":"notes.txt\nHello, this is my first file\n","output":"Hello, this is my first file"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Function_file.py","group":"local","local":true}

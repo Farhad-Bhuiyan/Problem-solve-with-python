@@ -1,0 +1,1 @@
+{"name":"Local: file_pointer","url":"d:\\Problem solve with python\\file_pointer.py","tests":[{"id":1792091420879,"input":"hello.txt\nHello, World!\n7","output":"World!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\file_pointer.py","group":"local","local":true}

@@ -1,0 +1,518 @@
+{
+    "Route 01": {
+        "name": "Shewrapara to GUB via Mirpur 12",
+        "stops": [
+            "Shewrapara",
+            "Mirpur-10",
+            "Mirpur-12",
+            "Kalshi",
+            "ECB Chattor",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Shewrapara": "07:00",
+            "Mirpur-10": "07:05",
+            "Mirpur-12": "07:10",
+            "Kalshi": "07:15",
+            "ECB Chattor": "07:17",
+            "Kuril": "07:30"
+        },
+        "campus_departures": [
+            "13:45",
+            "16:45"
+        ]
+    },
+    "Route 02": {
+        "name": "Shewrapara to GUB via Mohakhali",
+        "stops": [
+            "Shewrapara",
+            "Agargaon",
+            "Mohakhali",
+            "Banani",
+            "MES",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Shewrapara": "07:15",
+            "Agargaon": "07:20",
+            "Mohakhali": "07:35",
+            "Banani": "07:45",
+            "MES": "07:50",
+            "Kuril": "07:55"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 03_1": {
+        "name": "Shyamoli to GUB via Majar Road",
+        "stops": [
+            "Shyamoli",
+            "Technical Mor",
+            "Gabtoli",
+            "Majar Road",
+            "Mirpur 1",
+            "Mirpur 2",
+            "Mirpur 11",
+            "Kalshi",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Shyamoli": "07:00",
+            "Technical Mor": "07:05",
+            "Gabtoli": "07:10",
+            "Majar Road": "07:15",
+            "Mirpur 1": "07:20",
+            "Mirpur 2": "07:25",
+            "Mirpur 11": "07:30",
+            "Kalshi": "07:45",
+            "Kuril": "07:55"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 03_2": {
+        "name": "Shyamoli to GUB via Technical Mor",
+        "stops": [
+            "Shyamoli",
+            "Technical Mor",
+            "Mirpur 1",
+            "Mirpur 2",
+            "Mirpur 11",
+            "Kalshi",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Shyamoli": "07:10",
+            "Technical Mor": "07:15",
+            "Mirpur 1": "07:25",
+            "Mirpur 2": "07:30",
+            "Mirpur 11": "07:35",
+            "Kalshi": "07:45",
+            "Kuril": "07:55"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 04_1": {
+        "name": "Azimpur to GUB via Dhanmondi 27-Farmgate",
+        "stops": [
+            "Azimpur",
+            "New Market",
+            "City College",
+            "Dhanmondi 27",
+            "Khamar Bari",
+            "Farmgate",
+            "Mohakhali",
+            "Banani",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Azimpur": "07:00",
+            "New Market": "07:05",
+            "City College": "07:07",
+            "Dhanmondi 27": "07:10",
+            "Khamar Bari": "07:15",
+            "Farmgate": "07:20",
+            "Mohakhali": "07:25",
+            "Banani": "07:30",
+            "Kuril": "07:35"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 05_1": {
+        "name": "Motijheel to GUB via Malibagh",
+        "stops": [
+            "Motijheel",
+            "Komlapur",
+            "Basabo",
+            "Khilgaon",
+            "Malibag",
+            "Abul Hotel",
+            "Rampura",
+            "Badda",
+            "Natun Bazar",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Motijheel": "07:00",
+            "Komlapur": "07:05",
+            "Basabo": "07:10",
+            "Khilgaon": "07:12",
+            "Malibag": "07:18",
+            "Abul Hotel": "07:22",
+            "Rampura": "07:27",
+            "Badda": "07:35",
+            "Natun Bazar": "07:40",
+            "Kuril": "07:50"
+        },
+        "campus_departures": [
+            "13:45",
+            "16:45"
+        ]
+    },
+    "Route 05_2": {
+        "name": "Malibagh to GUB via Rampura",
+        "stops": [
+            "Malibag",
+            "Abul Hotel",
+            "Rampura",
+            "Badda",
+            "Natun Bazar",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Malibag": "07:10",
+            "Abul Hotel": "07:15",
+            "Rampura": "07:20",
+            "Badda": "07:30",
+            "Natun Bazar": "07:35",
+            "Kuril": "07:45"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 06_1": {
+        "name": "Gulistan to GUB via Staff Quarter",
+        "stops": [
+            "Gulistan",
+            "Tikatuli",
+            "Doyaganj",
+            "Jonopath Mor",
+            "Jatrabari",
+            "Vangga Press",
+            "Mridhabari",
+            "Konapara",
+            "Staff Quarter",
+            "Tarabo",
+            "Rupshi",
+            "Bhulta",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Gulistan": "06:45",
+            "Tikatuli": "06:55",
+            "Doyaganj": "06:57",
+            "Jonopath Mor": "06:59",
+            "Jatrabari": "07:00",
+            "Vangga Press": "07:02",
+            "Mridhabari": "07:03",
+            "Konapara": "07:10",
+            "Staff Quarter": "07:12",
+            "Tarabo": "07:15",
+            "Rupshi": "07:20",
+            "Bhulta": "07:35"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 06_2": {
+        "name": "Jatrabari to GUB via Staff Quarter",
+        "stops": [
+            "Jatrabari",
+            "Vangga Press",
+            "Mridhabari",
+            "Konapara",
+            "Staff Quarter",
+            "Tarabo",
+            "Rupshi",
+            "Bhulta",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Jatrabari": "07:05",
+            "Vangga Press": "07:07",
+            "Mridhabari": "07:10",
+            "Konapara": "07:15",
+            "Staff Quarter": "07:20",
+            "Tarabo": "07:25",
+            "Rupshi": "07:30",
+            "Bhulta": "07:40"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 07": {
+        "name": "Shonir Akhra to GUB via Kanchpur",
+        "stops": [
+            "Shonir Akhra",
+            "Rayerbagh",
+            "Matuail",
+            "Sign Board",
+            "CTG Road",
+            "Kachpur",
+            "Tarabo",
+            "Rupshi",
+            "Bhulta",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Shonir Akhra": "06:50",
+            "Rayerbagh": "06:52",
+            "Matuail": "06:55",
+            "Sign Board": "07:00",
+            "CTG Road": "07:10",
+            "Kachpur": "07:15",
+            "Tarabo": "07:20",
+            "Rupshi": "07:25",
+            "Bhulta": "07:50"
+        },
+        "campus_departures": [
+            "13:45",
+            "16:45"
+        ]
+    },
+    "Route 08_1": {
+        "name": "Chashara to GUB via CTG Road",
+        "stops": [
+            "Chashara",
+            "Nobiganj",
+            "Chowdhuri Bari",
+            "Adomjhee EPZ",
+            "CTG Road",
+            "Kachpur",
+            "Tarabo",
+            "Rupshi",
+            "Murapara",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Chashara": "06:35",
+            "Nobiganj": "06:40",
+            "Chowdhuri Bari": "06:45",
+            "Adomjhee EPZ": "06:55",
+            "CTG Road": "07:05",
+            "Kachpur": "07:10",
+            "Tarabo": "07:20",
+            "Rupshi": "07:25",
+            "Murapara": "07:30"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 08_2": {
+        "name": "Chashara to GUB via Sign Board",
+        "stops": [
+            "Chashara",
+            "Shibu Market",
+            "Jalkuri",
+            "Bhuighar",
+            "Mamudpar",
+            "Sign Board",
+            "Shanarpar",
+            "CTG Road",
+            "Kachpur",
+            "Tarabo",
+            "Rupshi",
+            "Murapara",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Chashara": "06:45",
+            "Shibu Market": "06:50",
+            "Jalkuri": "06:55",
+            "Bhuighar": "06:57",
+            "Mamudpar": "07:00",
+            "Sign Board": "07:10",
+            "Shanarpar": "07:15",
+            "CTG Road": "07:20",
+            "Kachpur": "07:25",
+            "Tarabo": "07:35",
+            "Rupshi": "07:40",
+            "Murapara": "07:50"
+        },
+        "campus_departures": [
+            "13:45",
+            "16:45"
+        ]
+    },
+    "Route 09_1": {
+        "name": "Narsingdi (Velanagar) to GUB via Bhulta",
+        "stops": [
+            "Narsingdi Velanagar",
+            "Shahe Protap",
+            "Panchdona",
+            "Madhopdi",
+            "Bhulta",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Narsingdi Velanagar": "07:00",
+            "Shahe Protap": "07:10",
+            "Panchdona": "07:20",
+            "Madhopdi": "07:30",
+            "Bhulta": "07:45"
+        },
+        "campus_departures": [
+            "13:45",
+            "16:45"
+        ]
+    },
+    "Route 09_2": {
+        "name": "Narsingdi (Ghorashal) to GUB via Bhulta",
+        "stops": [
+            "Ghorashal",
+            "Panchdona",
+            "Madhopdi",
+            "Bhulta",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Ghorashal": "07:00",
+            "Panchdona": "07:10",
+            "Madhopdi": "07:20",
+            "Bhulta": "07:35"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 10_1": {
+        "name": "Bypass (Gazipur) to GUB via Abdullahpur",
+        "stops": [
+            "Gazipur Bypass",
+            "Abdullahpur",
+            "Azompur",
+            "Rajlakshmi",
+            "Airport",
+            "Khilkhet",
+            "Kuril",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Gazipur Bypass": "06:45",
+            "Abdullahpur": "07:00",
+            "Azompur": "07:05",
+            "Rajlakshmi": "07:10",
+            "Airport": "07:15",
+            "Khilkhet": "07:18",
+            "Kuril": "07:22"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 10_2": {
+        "name": "Chowrasta (Gazipur) to GUB via Mirer Bazar",
+        "stops": [
+            "Gazipur Chowrasta",
+            "Gazipur Bypass",
+            "Meghdubi",
+            "Mirer Bazar",
+            "Ulukhola",
+            "Zinda Park",
+            "Kanchon",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Gazipur Chowrasta": "06:45",
+            "Gazipur Bypass": "06:47",
+            "Meghdubi": "06:55",
+            "Mirer Bazar": "07:00",
+            "Ulukhola": "07:05",
+            "Zinda Park": "07:10",
+            "Kanchon": "07:20"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 11": {
+        "name": "Sonargaon to GUB via Madanpur-Noyapur",
+        "stops": [
+            "Mograpara",
+            "Langalbond",
+            "Madanpur",
+            "Noyapur",
+            "Bostail",
+            "Gawsia",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Mograpara": "07:00",
+            "Langalbond": "07:05",
+            "Madanpur": "07:10",
+            "Noyapur": "07:15",
+            "Bostail": "07:30",
+            "Gawsia": "07:40"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 11_12": {
+        "name": "Sonargaon Baradi to GUB via Araihazar",
+        "stops": [
+            "Sonargaon-Baradi",
+            "Ladhurchor",
+            "Mahazampur",
+            "Taltola",
+            "Eidbardi",
+            "Araihazar Chowrasta",
+            "Kalibari Bazar",
+            "Duptara",
+            "Gawsia",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Sonargaon-Baradi": "07:00",
+            "Ladhurchor": "07:10",
+            "Mahazampur": "07:12",
+            "Taltola": "07:20",
+            "Eidbardi": "07:25",
+            "Araihazar Chowrasta": "07:30",
+            "Kalibari Bazar": "07:35",
+            "Duptara": "07:40",
+            "Gawsia": "07:45"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    },
+    "Route 12": {
+        "name": "Araihazar (Bishnandi Ferry Ghat) to GUB",
+        "stops": [
+            "Bishnandi Ferry Ghat",
+            "Bishnandi Taltola Bazar",
+            "Ramchandri",
+            "Kalirhat",
+            "Dokkhinpara Tharibarimor",
+            "Ferighat Bypass Road",
+            "Araihazar Chowrasta",
+            "Kalibari Bazar",
+            "Duptara",
+            "Gawsia",
+            "GUB Campus"
+        ],
+        "pickup_times": {
+            "Bishnandi Ferry Ghat": "07:15",
+            "Bishnandi Taltola Bazar": "07:16",
+            "Ramchandri": "07:17",
+            "Kalirhat": "07:18",
+            "Dokkhinpara Tharibarimor": "07:20",
+            "Ferighat Bypass Road": "07:25",
+            "Araihazar Chowrasta": "07:27",
+            "Kalibari Bazar": "07:30",
+            "Duptara": "07:35",
+            "Gawsia": "07:40"
+        },
+        "campus_departures": [
+            "16:45"
+        ]
+    }
+}

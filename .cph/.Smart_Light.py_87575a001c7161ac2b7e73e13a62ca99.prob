@@ -1,0 +1,1 @@
+{"name":"Local: Smart_Light","url":"d:\\Problem solve with python\\Smart_Light.py","tests":[{"id":1791801371071,"input":"76 60","output":"ON"},{"id":1791801408065,"input":"60 75","output":"OFF"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Smart_Light.py","group":"local","local":true}

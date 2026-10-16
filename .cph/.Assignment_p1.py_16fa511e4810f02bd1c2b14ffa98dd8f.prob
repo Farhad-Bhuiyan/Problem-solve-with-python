@@ -1,0 +1,1 @@
+{"name":"Local: Assignment_p1","url":"d:\\Problem solve with python\\Assignment_p1.py","tests":[{"id":1792134496990,"input":"4 6 8 12 16 20 24 28 ","output":"[4, 12, 20, 28]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\Assignment_p1.py","group":"local","local":true}

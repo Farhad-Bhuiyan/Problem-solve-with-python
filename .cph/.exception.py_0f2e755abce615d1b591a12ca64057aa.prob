@@ -1,0 +1,1 @@
+{"name":"Local: exception","url":"d:\\Problem solve with python\\exception.py","tests":[{"id":1792088224224,"input":"15 20 2 5 6 7 \n2","output":"2"},{"id":1792088272797,"input":"15 20 2 5 6 7 \n11","output":"list index out of range"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\exception.py","group":"local","local":true}
