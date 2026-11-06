@@ -1,0 +1,1 @@
+{"name":"Local: pattern","url":"d:\\Problem solve with python\\pattern.py","tests":[{"id":1792516386532,"input":"5","output":"#\n##\n###\n####\n#####"},{"id":1792516484392,"input":"1","output":"#"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem solve with python\\pattern.py","group":"local","local":true}
